@@ -1,4 +1,4 @@
-![Wealth Wise Preview!](/assets/images/thumbnail.png "Wealth Wise Preview")
+![Wealth Wise Preview!](/profile/assets/images/thumbnail.png "Wealth Wise Preview")
 
 # WealthWise : Aplikasi Web untuk Perencanaan Keuangan Pribadi dengan Kalkulator Investasi, Forum Diskusi, dan Konten Edukasi
 
