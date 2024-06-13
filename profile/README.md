@@ -3,7 +3,7 @@
 <h1 align="center">Wealth Wise</h1>
 <p align="justify">Wealth Wise adalah sebuah aplikasi web untuk Perencanaan Keuangan Pribadi dengan Kalkulator Investasi, Forum Diskusi, dan Konten Edukasi</p>
 
-** Berikut ini adalah link aplikasi kami :**
+**Berikut ini adalah link aplikasi kami :**
 
 [https://wealth-wise-db.web.app/](https://wealth-wise-db.web.app/)
 
